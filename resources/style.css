@@ -22,3 +22,21 @@ h1, h2, h3 {
   font-size: 11px;
   color: white;
 }
+
+p {
+  font-size: 14px;
+}
+
+.designed, h3 {
+  font-size: 23px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+ul {
+  font-size: 18px;
+  list-style-type: none;
+  font-color: white;
+}
